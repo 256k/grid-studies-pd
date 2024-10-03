@@ -1,3 +1,4 @@
 # Grid Studies: Pure Data
+This fork converts the old pd studies repo to a vanilla pd version with no dependencies
 
-[monome.org/grid-studies-pd](http://monome.org/grid-studies-pd)
+(OUTDATED PURE DATA DOCS) [monome.org/grid-studies-pd](http://monome.org/grid-studies-pd)
